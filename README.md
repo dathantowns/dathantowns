@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**dathantowns/dathantowns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hello, I'm Dathan!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Dathan! I got into coding later in life, and it quickly became something I truly enjoy. After working with my hands for most of my life, I've found a huge sense of fulfillment in applying myself to it mentally. It’s been an exciting journey, and I'm passionate about full-stack development. Every day is a chance to learn something new, and I’m loving the process!
+
+
+
+## 🚀 About Me
+- 🌱 Currently learning Advanced JavaScript
+- 💻 I specialize in HTML and CSS
+- 💡 I love working on Web Development
+- 🎯 My goal is to become a Full Stack Software Developer
+
+## 💬 Let's Connect!
+- 📫 **Email**: dathantowns@gmail.com
+- 🧑‍💻 **LinkedIn**: [dathan-towns](https://www.linkedin.com/in/dathan-towns-a36994352/)
+
+
+## 🎯 Projects I'm Working On
+- **[FRZNCHZN](link_to_project)**: A landing page for my music collective.
+
+## 🎉 Fun Facts
+- 🎮 I love to sing and play basketball in my free time.
+- 🏞️ I'm a big Big Bang Theory guy.
+
+
+Thanks for visiting my profile! Feel free to check out my repositories and contribute if you're interested! 🚀
