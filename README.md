@@ -19,7 +19,7 @@ Hi, I'm Dathan! I got into coding later in life, and it quickly became something
 
 ## 🎯 Projects I'm Working On
 
-- **[Spots App](https://github.com/dathantowns/se_project_spots)**: A landing page for my music collective.
+- **[Spots App](https://github.com/dathantowns/se_project_spots)**: A social media web application.
 
 
 ## 🎉 Fun Facts
