@@ -28,7 +28,7 @@ Hi, I'm Dathan! I got into coding later in life, and it quickly became something
 - 🏞️ I'm a big Big Bang Theory guy.
 
 
-## Languages and Tools
+## 🛠️ Languages and Tools
 
 - HTML/CSS
 - JavaScript
